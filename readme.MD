@@ -1,3 +1,6 @@
+
+# Research paper
+The research paper is also present in this repo, as rares-mihail-final-thesis-rp-2025-q2.pdf. It is also published on the public TUDelft repository: https://repository.tudelft.nl/record/uuid:05dd2a1f-c052-4cd8-b576-0e46a41456b3.
 # Experiment Setup and Instructions
 
 ## Environment Setup
